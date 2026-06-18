@@ -175,6 +175,3 @@ Giriş Görüntüsü (1 × 32 × 256)
 
 ---
 
-## Lisans
-
-Bu proje akademik amaçlı geliştirilmiştir.
